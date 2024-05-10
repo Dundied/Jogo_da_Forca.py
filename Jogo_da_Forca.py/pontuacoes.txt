@@ -1,0 +1,5 @@
+Leonardo: 50 pontos
+Guilherme: 45 pontos
+Pedro: 40 pontos
+Thiago: 5 pontos
+Matheus: 5 pontos
